@@ -13,8 +13,8 @@ START
   
   INIT Rinse hands with only water
   
-    IF soap remains on hand, keep scrubbing
-    ELSE Stop Scrubbing
+   IF soap remains on hand, keep scrubbing
+   ELSE Stop Scrubbing
     
   When finished, clean hands with towel
 END
