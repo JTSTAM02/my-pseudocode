@@ -1,14 +1,22 @@
 # Washing Your Hands: PseudoCode for Dummies
 
-## START
-  - INIT Get hands wet with water
+## Variables (Items) Needed
+  -Soap
+  -Water
+  -Sink
+  -Faucet (left and right)
+  -Towel
   
+### START
+  - INIT Get hands wet with water
+    * By turning faucet to the left
+   
   - IF hand is not convered in soap
     then put soap on hand
   - ELSE begin scrubbing hands together
 
   - IF scrubbing of hands is less than one minute,
-    keep scurbbing hands together
+    keep scrubbing hands together
   - ELSE stop scrubbing
   
   - INIT Rinse hands with only water
@@ -16,7 +24,8 @@
    - IF soap remains on hand, keep scrubbing
    - ELSE Stop Scrubbing
     
-  - When finished, clean hands with towel
-## END
+  - When finished, turn faucet back to the right
+    * clean hands with towel
+### END
 
 
