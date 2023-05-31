@@ -13,11 +13,11 @@
    
   - IF hand is not convered in soap
     then put soap on hand
-  - ELSE begin scrubbing hands together
+  - ELSE begin scrubbing hands together (function)
 
   - IF scrubbing of hands is less than one minute,
     keep scrubbing hands together
-  - ELSE stop scrubbing
+  - ELSE stop scrubbing (function)
   
   - INIT Rinse hands with only water
   
@@ -28,4 +28,14 @@
     * clean hands with towel
 ### END
 
+# Functional PseudoCode
+
+  If/else statement for covering hand in Soap
+  If/else statement with set time:
+  ``  if (timer < 60 sec) {
+      scrub.hands;
+      } else {
+       stop.hands; 
+        } ``
+        
 
