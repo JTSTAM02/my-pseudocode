@@ -32,12 +32,14 @@
 
  - If/else statement for covering hand in Soap
  - If/else statement with set time:
-  ``  if (timer < 60 sec) {
+ 
+  ````  
+  if (timer < 60 sec) {
       scrub.hands;
       } else {
        stop.hands; 
         } 
         
-  ``
+  ````
         
 
