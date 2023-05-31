@@ -1,11 +1,11 @@
 # Washing Your Hands: PseudoCode for Dummies
 
 ## Variables (Items) Needed
-  -Soap
-  -Water
-  -Sink
-  -Faucet (left and right)
-  -Towel
+  - Soap
+  - Water
+  - Sink
+  - Faucet (left and right)
+  - Towel
   
 ### START
   - INIT Get hands wet with water
