@@ -36,9 +36,9 @@
   ````  
   if (timer < 60 sec) {
       scrub.hands;
-      } else {
-       stop.hands; 
-        } 
+  } else {
+      stop.hands; 
+  } 
         
   ````
         
