@@ -1,4 +1,4 @@
-# Washing Your Hands: PseudoCode for Dummies
+# Washing Your Hands: PseudoCode for Beginners
 
 ## Variables (Items) Needed
   - Soap
