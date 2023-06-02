@@ -10,6 +10,7 @@
 ### START
   - INIT Get hands wet with water
     * By turning faucet to the left
+    * Keep Faucet running
    
   - IF hand is not convered in soap
     then put soap on hand
